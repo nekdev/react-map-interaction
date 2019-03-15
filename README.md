@@ -1,4 +1,4 @@
-# react-map-interaction
+# react-map-interaction (nekdev)
 
 Add map like zooming and panning to any React element. This works on both touch devices (pinch to zoom, drag to pan) as well as with a mouse or trackpad (wheel scroll to zoom, mouse drag to pan).
 
